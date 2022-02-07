@@ -1,0 +1,5 @@
+# COVID19andRace
+
+COVID19 has affected everyone in the world.  The disease is extremely contagious and serious.  It started in Wuhan, Hubei Province in China.  It was announced by the World Health Organization on Dec 31, 2019, that it would spread to the rest of the world if we don’t act quickly in the time window.  Unfortunately, it did spread all around the world.  182M cases and 4M deaths happened worldwide (as of July 2021).  In the United States, nearly 33.6M cases were found and 604K deaths happened.  
+
+Different races are affected by COVID19 by different degrees.  It’s been known that African Americans and Latinos have more cases than Whites and Asians.  What about American Indians (i.e. The First Nation)?  Can we use data to show how different the different races are impacted?  What race is the most disadvantage and needs attention?  Secondly, it would be interesting to see, is the difference due to genetic make-up or due to socioeconomics?  In this project, I will illustrate COVID19 cases and deaths by race using open source data from the COVID Tracking Project [1].  Then I will correlate the impact difference with household incomes by race.  
